@@ -12,7 +12,7 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://nuxters.nuxt.com/igorjacauna"><img src="https://nuxters.nuxt.com/igorjacauna/__og_image__/og.png" alt="Igor on Nuxters" width="300" /></a>
+        <a href="https://nuxters.nuxt.com/igorjacauna"><img src="https://nuxters.nuxt.com/card/igorjacauna/og.png" alt="Igor on Nuxters" width="300" /></a>
       </p>
     </td>
   </tr>
