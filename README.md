@@ -5,7 +5,6 @@
         <samp>
           Web developer focusing in <strong title="Frontend">Frontend</strong>. Making the simple to become extraordinary. <strong title="Vue">Vue</strong> ecosystem enthusiast. <br/>
           <a href="https://igorjacauna.com.br">Website</a> .
-          <a href="https://twitter.com/ijacauna">Twitter</a> .
           <a href="https://linkedin.com/in/igorjacauna/">LinkedIn</a>
         </samp>
       </p>
